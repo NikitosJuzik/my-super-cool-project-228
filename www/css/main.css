@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color:rgb(46, 45, 45);
+}
+
+.block {
+    border: 2px solid;
+    background-position: top;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: start;
+}
+
+
+.photo {
+    border: 2px solid;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+
+h2 {
+    background-color: black;
+    color:rgb(86, 255, 80); 
+    text-align: center;
+}
+
+p {
+    color: rgb(86, 255, 80);
+    text-align: center;
+    font-style: italic;   
+}
+
+h2 {
+    background-color: black;
+    color:rgb(86, 255, 80); 
+    text-align: center;
+}
+
+p {
+    color: rgb(86, 255, 80);
+    text-align: center;
+    font-style: italic;   
+}
+
+form {
+    color: rgb(7, 240, 162);
+    text-align: left;
+    font-style: italic; 
+}
